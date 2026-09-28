@@ -1,0 +1,21 @@
+/* Global reset handled in App.css */
+
+:root {
+  --color-primary: #a4133c;
+  --color-primary-hover: #8a0f32;
+  --color-bg: #fffcf2;
+  --color-text: #222;
+  --color-border: #ddd;
+  --color-surface-muted: #f9f9f9;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 20px;
+}
